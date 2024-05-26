@@ -1,8 +1,3 @@
-# React + Vite
+his project is a Home Decoration product e-commerce website, developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack for the backend and Tailwind CSS for styling. It replicates key features and functionalities of the original KFC website, including menu browsing, ordering, and checkout.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Backend Codes : https://github.com/AbdulAzizSajib/HomeDeco_backend
