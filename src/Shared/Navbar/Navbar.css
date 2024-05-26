@@ -1,0 +1,5 @@
+.active {
+  color: rgb(0, 0, 0) !important;
+  background-color: #ffffff !important;
+  font-weight: 600 !important;
+}

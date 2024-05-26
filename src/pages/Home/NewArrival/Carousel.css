@@ -1,0 +1,12 @@
+/* Styling the navigation buttons */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #f7f7f7; /* Text color */
+  font-weight: 600;
+}
+
+/* Hover effect for navigation buttons */
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  color: #000000; /* Text color on hover */
+}
